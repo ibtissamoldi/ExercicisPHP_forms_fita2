@@ -2,26 +2,26 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Comprovar contrasenya</title>
+    <title>Confirmar Contraseña</title>
 </head>
 
 <body>
 
-<h1>Comprovar contrasenya</h1>
+<h1>Confirmar Contraseña</h1>
 
 <form action="ex24pg2.php" method="POST">
 
-    <label>Contrasenya:</label>
+    <label>Contraseña:</label>
     <input type="password" name="contrasenya1">
 
     <br><br>
 
-    <label>Repetir contrasenya:</label>
+    <label>Repetir Contraseña:</label>
     <input type="password" name="contrasenya2">
 
     <br><br>
 
-    <input type="submit" value="Comprovar">
+    <input type="submit" value="Comprobar">
 
 </form>
 
